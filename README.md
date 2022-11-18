@@ -25,11 +25,15 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Testing theory](https://github.com/anorakhimova/testing-theory.git)
+- [Test Design](https://github.com/anorakhimova/test-design.git)
+- [Test Documentation](https://github.com/anorakhimova/test-documentation.git)
+- [Web Application Testing](https://github.com/anorakhimova/Web-Application-Testing.git)
+- [Charles Proxy и Fiddler](https://github.com/anorakhimova/Tools-for-intercepting-and-analyzing-traffic.git)
+- [Postman Collections](https://github.com/anorakhimova/API-testing-with-Postman.git)
+- [SQL Queries](https://github.com/anorakhimova/Database-testing.git)
+- [Mobile Application Testing] (https://github.com/anorakhimova/Mobile-Application-Testing.git)
+
 
 ### Follow Me
 
