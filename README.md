@@ -32,7 +32,7 @@
 - [Charles Proxy и Fiddler](https://github.com/anorakhimova/Tools-for-intercepting-and-analyzing-traffic.git)
 - [Postman Collections](https://github.com/anorakhimova/API-testing-with-Postman.git)
 - [SQL Queries](https://github.com/anorakhimova/Database-testing.git)
-- [Mobile Application Testing] (https://github.com/anorakhimova/Mobile-Application-Testing.git)
+- [Mobile Application Testing](https://github.com/anorakhimova/Mobile-Application-Testing.git)
 
 
 ### Follow Me
