@@ -1,4 +1,4 @@
-[![Header](https://github.com/anorakhimova/anorakhimova/blob/a0453a3bb32f9b1eb0be77e9e856dd350d25a6ba/assets/git.png)
+![Header](https://github.com/anorakhimova/anorakhimova/blob/a0453a3bb32f9b1eb0be77e9e856dd350d25a6ba/assets/git.png)
 ## I'm a QA Engineer
 
 ## My CV
