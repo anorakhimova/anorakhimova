@@ -23,7 +23,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 
-### Testing Documentation
+### Testing Artefacts
 
 - [Testing theory](https://github.com/anorakhimova/testing-theory.git)
 - [Test Design](https://github.com/anorakhimova/test-design.git)
