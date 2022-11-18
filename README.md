@@ -6,8 +6,11 @@
 
 
 ### Language and Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Youtrack-090909?style=for-the-badge&logo=youtrack&logoColor=8cc4d7)
+
+![Header](https://img.shields.io/badge/Youtrack-090909?style=for-the-badge&logo=youtrack&logoColor=0074d0)
+![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=slack&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/QASE-090909?style=for-the-badge&logo=qase&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
@@ -18,7 +21,7 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ### Testing Documentation
 
 - [Checklists](https://github.com/artichokeee/checklist)
