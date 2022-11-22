@@ -33,7 +33,7 @@
 - [Postman Collections](https://github.com/anorakhimova/API-testing-with-Postman.git)
 - [SQL Queries](https://github.com/anorakhimova/Database-testing.git)
 - [Mobile Application Testing](https://github.com/anorakhimova/Mobile-Application-Testing.git)
-
+- [Bash](https://github.com/anorakhimova/Bash.git)
 
 ### Follow Me
 
